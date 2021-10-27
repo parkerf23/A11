@@ -64,7 +64,7 @@ main p {
     padding-bottom: .5em;
 }
 
- main q {
+ main blockquote {
     padding-right: 2em;
     padding-left: 2em;
     font-style: italic;
@@ -81,10 +81,10 @@ main li {
 main h1{
     font-size: 150%;
     background-color: white;
-    margin: 15px auto;
-    padding: 15px 1.5em;
-    border: 1px solid black;
-    border-radius: 90px;
+    margin-bottom: .75em;
+    padding: .5em 0 .5em 2em;
+    border: 3px double #800000;
+    border-radius: 10px;
     box-shadow: 5px 5px 0 0;
 }
 
